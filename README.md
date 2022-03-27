@@ -4,7 +4,7 @@
 
 `-h` - help command.
 
-`-c archive_name file1 [file2 ...]` - compress files to one archive named `arcgive_name`.
+`-c archive_name file1 [file2 ...]` - compress files to one archive named `archive_name`.
 
 `-d archive_name` - decodes archive `archive_name`.
 
