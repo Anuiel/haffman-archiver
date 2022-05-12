@@ -1,6 +1,7 @@
 #include "Encoder.h"
 #include "Archiver/Haffman/HaffmanTree.h"
 #include "Archiver/Haffman/Heap.h"
+#include <algorithm>
 
 using namespace Haffman;
 
