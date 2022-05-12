@@ -1,6 +1,6 @@
+#include "Archiver/Haffman.h"
 #include "Input/BitReader.h"
 #include "Output/BitWriter.h"
-#include "Archiver/Haffman.h"
 
 namespace Haffman {
 
