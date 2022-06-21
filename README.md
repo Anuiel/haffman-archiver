@@ -9,4 +9,4 @@
 `-d archive_name` - decodes archive `archive_name`.
 
 -----------
-There are hand-made Heap without template (bacause I can)
+There are hand-made Heap without template (because I can)
